@@ -1,4 +1,4 @@
-#Handling strings
+# Handling strings
 
 letter = 'D'
 name = "John"
@@ -8,7 +8,7 @@ print(len(multiples))
 
 print('can' in multiples)
 
-#slicing
+# slicing
 print(multiples[0:5])
 
 # print(dir(multiples))
