@@ -38,3 +38,10 @@ for student in marks:
         break
 else:
     print('No entry with that name found.')
+
+
+count = 0
+
+while count < 5:
+    print(count)
+    count += 1
